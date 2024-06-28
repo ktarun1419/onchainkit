@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.23.5
+
+### Patch Changes
+
+- d638dc9: - **docs**: Add Wallet Demo margin to avoid overlapping neighbor divs. By @cpcramer #741
+- 0888a68: - **docs**: Update Connect Wallet docs and homepage example. By @cpcramer #740
+
 ## 0.23.4
 
 ### Patch Changes
